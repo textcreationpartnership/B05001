@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A lamentation over England, because of the judgements that is [sic] now appearing against her for her manifold transgressions.</title>
+            <author>Rigge, Ambrose, 1635?-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05001</idno>
+            <idno type="OCLC"> 13697879</idno>
+            <idno type="STC">Wing R1485</idno>
+            <idno type="STC">Interim Tract Supplement Guide 4152.f.20[11]</idno>
+            <idno type="STC">ESTC R6132</idno>
+            <idno type="EEBO-CITATION">99890800</idno>
+            <idno type="PROQUEST">ocm99890800</idno>
+            <idno type="VID">183698</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05001)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183698)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B1:5[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A lamentation over England, because of the judgements that is [sic] now appearing against her for her manifold transgressions.</title>
+                  <author>Rigge, Ambrose, 1635?-1705.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1665]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: Ambrose Rigge.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685. --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="lamentation">
+            <pb n="1" facs="tcp:183698:1" rendition="simple:additions"/>
+            <head>A LAMENTATION OVER ENGLAND, Becauſe of the Judgements that is now Appearing againſt her for her manifold TRANSGRESSIONS.</head>
+            <p>OH <hi>England, England!</hi> What ſhall I ſay unto thee? or how ſhall I lay open before thee thy <hi>unutterable Tranſ<g ref="char:EOLhyphen"/>greſſions</hi> and <hi>Iniquities,</hi> of all ſorts and natures, that that thou mayſt be thorowly ſenſible of the cauſe for which the God of heaven and earth is now appearing againſt Thee, with <hi>ſore Calamities and great Judgements?</hi> Oh, that my head were as water, and mine eyes a fountain of tears, that <note place="margin">Jer. 9.
+11. &amp; 10. 22. Jer. 19. 8, 9.</note> I might thorowly lament thy <hi>ſad condition</hi> into which thou haſt driven thy ſelf, through thy wilful reſiſting the day of thy
+<hi>Viſitation.</hi> Oh, that thou hadſt throughly conſidered in this <note place="margin">Jer.
+9. 1, 2 Luke 19. 42, 43, 44</note> thy day, the things which did belong to thy peace; but now are they hid from many, who are drinking iniquity as the Ox drinks water; therefore ſhall thine enemies compaſs thee on every ſide, and ſhall prey upon thee, as the <hi>Ravens</hi> upon a dead <hi>carkaſs,</hi> and none ſhall frey them away, unleſs thou <hi>break off thy ſins by repentance, and thy iniquities by ſhewing mercy to the poor and oppreſſed in thee;</hi> for from the head even to the foot, thou art a <hi>disjoynted body, full of bruiſes and gangreen'd ſores,</hi> which are ſo ſpread in every member, that there is now little hopes of thy recovery. <hi>Oh, how often would the Lord</hi> 
+               <note place="margin">Mat. 23. 37.</note> 
+               <hi>have gathered thee, as a Hen gathereth her Chickens under her wings;</hi> but thou haſt mocked his Meſſengers, and deſpiſed
+<pb n="2" facs="tcp:183698:2"/> his words, and miſuſed his Prophets, until the wrath of God <note place="margin">2 Chron. 36.
+16.</note> is broke forth againſt thee, and thy ttoubles come upon thee as an <hi>armed man,</hi> which thou canſt not withſtand; thy <hi>Pride,</hi> thy <hi>Wantonneſs, Luxury, Whoredom, Swearing, Lying, Drun<g ref="char:EOLhyphen"/>kenneſs, Gluttony, Oppreſſion</hi> and <hi>Cruelty, cozening and defraud<g ref="char:EOLhyphen"/>ing the Innocent,</hi> ſhall preſs thee down as a mill-ſtone, into the Sea; <hi>fear, the Pit and the Snare ſhall be upon thee,</hi> and it ſhall come to paſs, that he that fleeth from the noiſe of <hi>fear</hi> of that <note place="margin">Iſa 24. 17, 18.</note> dreadful day that is coming upon thee, ſhall fall into the <hi>Pit,</hi> and he that cometh up out of the midſt of the <hi>Pit,</hi> ſhall be taken in the <hi>Snars; for the earth ſhall reel to and fro,</hi> like as thy <hi>Drunkards</hi> have reeled in thy ſtreets, <hi>and it ſhall be removed like a Cottage, and the Tranſgreſſions thereof ſhall be heavy upon it, and the haughtineſs of many ſhall be bowed down, and Terror, Fear and Amazement ſhall ſeize upon the ſtouteſt heart, before the fierce anger of the Lord now broken forth be executed upon it,</hi> for the <hi>deſtroying Angel</hi> from the Lord is gone forth to <hi>plague</hi> and
+<hi>famiſh</hi> thy <hi>Inhabitants,</hi> who hath long <hi>fatted themſelves like fed Horſes,</hi> devouring the good creatures of God upon their luſts, <hi>ſitting down to eat and drink, and riſing up to play,</hi> 
+               <note place="margin">1 Cor. 10. 7.</note> which was the
+<hi>Idolatry of the old World,</hi> and one of the evils for which God took an occaſion to deſtroy them. Oh, how often haſt thou tempted the God of Heaven by thy abominable
+<hi>Oaths</hi> and <hi>Curſings;</hi> nay, thou haſt invented new <hi>Oaths</hi> to pleaſe the luſts of wicked men, <hi>Therefore ſhall thy Land mourn,</hi> 
+               <note place="margin">Jer. 23.
+10</note> 
+               <hi>and thy pleaſant places be dryed up, and thy fruitful fields as the high places of the Forreſt; for they that have wrought wickedneſs have been ſet up in thee, and they that have tempted God</hi> (as afore<g ref="char:EOLhyphen"/>ſaid) <note place="margin">Mal 3. 15.</note> 
+               <hi>have been even delivered,</hi> countenanced and tolerated: <hi>yea, Judgement hath ſtood afar off, and Juſtice hath been turned back<g ref="char:EOLhyphen"/>ward,</hi> 
+               <note place="margin">Iſa. 59. 14, 15.</note> 
+               <hi>and Truth hath fallen in the ſtreets, and Equity could not enter; and he that hath departed from evil, hath been made a prey upon</hi> by thy <hi>ravening Wolves,</hi> who have laid many <hi>Snares</hi> for them who have <hi>reproved ſin in the gate: Shall not I viſit for theſe</hi> 
+               <note place="margin">Iſa. 29. 21</note> 
+               <hi>things,</hi> ſaith the Lord? <hi>Shall not my ſoul be avenged on ſuch a Nation as this?</hi> Oh, how often hath Juſtice and true Judge<g ref="char:EOLhyphen"/>ment
+<note place="margin">Jer. 5. 9.</note> been perverted by thy <hi>Judges,</hi> whoſe unparalleld pro<g ref="char:EOLhyphen"/>ceedings (againſt righteous men only, for the worſhip and ſer<g ref="char:EOLhyphen"/>vice of God, and obedience to his Son (within this late years)
+<pb n="3" facs="tcp:183698:2"/> will be recorded to generations to come, who have firſt made <note place="margin">John 4. 23,
+24.</note> Laws to <hi>trap</hi> &amp; <hi>ſnare</hi> the righteous, and then have hunted them therewith out of their peaceable habitations, and thrown them into many <hi>noyſom priſons,</hi> where they have long kept them, <hi>contrary to the known Laws and Liberties</hi> of <hi>England,</hi> and ex<g ref="char:EOLhyphen"/>poſed them to <hi>ruine</hi> in perſon and eſtate for ever, only becauſe they worſhip God and obey his Truth, according as he hath perſwaded their hearts; let the <hi>Goals</hi> throughout this whole Land, be as a cloud of witneſſes againſt thee this day, yet with this thou art not ſatisfied, but thou muſt have ſuch <hi>baniſhed</hi> out of their native Country, &amp; expoſed to ſlavery in a forreign Land, whom thou couldſt never juſtly charge with the leaſt injury to any mans perſon or Eſtate; <hi>The cry of whoſe Blood</hi> (murdered by Thee in thy cloſe and noiſom priſons, for want of room and Air)
+<hi>is gone up to the God of Heaven,</hi> and he hath begun to pour out his <hi>Plagues</hi> upon Thee<hi>:</hi> And as thou <hi>Lon<g ref="char:EOLhyphen"/>don</hi> hath proceeded in the above ſaid <hi>Cruelties, impriſoning ma<g ref="char:EOLhyphen"/>ny to death, cruelly whipping, ſtocking, beating, pinching, buffetting, and baniſhing,</hi> &amp;c. againſt thee hath God bent his bow, and there is wrath gone forth from him againſt thee, and the <hi>Plague</hi> is begun, which ſhall <hi>impriſon and baniſh thouſands into</hi> 
+               <note place="margin">Num. 16. 46.</note> 
+               <hi>a dungeon where there is no redemption,</hi> and thy <hi>Calamities</hi> ge<g ref="char:EOLhyphen"/>nerations to come ſhall reckon up; but though thou muſt firſt drink of the cup of the Lords fierce indignation and hot diſ<g ref="char:EOLhyphen"/>pleaſure, yet after thee it ſhall be given into the hand of every <hi>Oppreſſor</hi> in the Land, until they know that the moſt High ren<g ref="char:EOLhyphen"/>dereth to every man according to the fruit of his doings, who is now pleading with thee by his <hi>Sword,</hi> by his <hi>Plagues</hi> and <hi>Judgements,</hi> which thou canſt neither <hi>Suppreſs, Impriſon</hi> nor <hi>Baniſh,</hi> but they ſhall hunt thy Inhabitants out of their <hi>ſealed Houſes</hi> and <hi>fair Cities,</hi> even as thou haſt hunted his choſen Ones out of their <hi>Meetings</hi> and <hi>Dwellings,</hi> for the ſame mea<g ref="char:EOLhyphen"/>ſure thou haſt meaſured, ſhall be meaſured to thee again; and
+<note place="margin">Mat. 7. 1, 2. Jam. 2. 13</note> they ſhall have judgement without mercy, who have ſhewed no mercy; the <hi>Sword</hi> without, and the <hi>Famine</hi> and
+<hi>Peſtilence</hi> within, ſhall deſtroy both the young-man and Maid; and thus
+<note place="margin">Ezek. 7. 15.</note> ſhall thy Land be vexed, until the Lord have performed the thought of his heart concerning thee, for thou haſt overpaſt the deeds of the wicked, and thy wilful Tranſgreſſions hath
+<pb n="4" facs="tcp:183698:3"/> rendred thee guilty before God and man of all thoſe judge<g ref="char:EOLhyphen"/>ments that are come and coming upon thee: <hi>Alas, alas,</hi> for the <hi>miſery, deſtruction,</hi> and <hi>deſolation</hi> which is haſtning to come upon thee; the day of the Lord ſhall come upon thee, as pain upon a woman that travelleth, and you ſhall be amazed at one anothers faces, your faces ſhall be as flames: for, <hi>Be<g ref="char:EOLhyphen"/>hold the day of the Lord cometh, cruel both with wrath and fierce anger, to ſcourge the Land, and he ſhall deſtroy the ſinners thereof out of it; and he will puniſh the world for their evil, and the wick<g ref="char:EOLhyphen"/>ed for their iniquities, and will cauſe the arrogancy of the proud to ceaſe, and lay low the haughtineſs of the terrible, who hath made ſtrong the bonds and fetters of his Anointed; then ſhall a man be more precious then gold, and the reſidue that ſhall remain, ſhall re<g ref="char:EOLhyphen"/>turn to Zion with ſongs of deliverance, and Hallelujahs to the</hi> 
+               <note place="margin">Iſa. 35. 10.</note> 
+               <hi>Lord for ever; and ſorrow and ſighing ſhall flie away, and they ſhall receive beauty for aſhes, and the oyle of joy for the ſpirit of heavineſs, that they may be called Trees of righteouſneſs, the plant<g ref="char:EOLhyphen"/>ing of the Lord.</hi> But thou ſhalt mourn as the Dove mourneth, yea, thy laughter ſhall be turned into mourning, and thy joy into heavineſs; and thy ſwarms of falſe Prophets, who have long
+<hi>daubed thee with untempered morter,</hi> and <hi>made merchandiſe of thee through covetouſneſs,</hi> ſhall drink deep of the cup of the <note place="margin">Ezek. 22. 28. 1 Pet.
+2 1, 2, 3, 4. Mal. 4. 1.</note> Lords indignation, who is highly guilty of all the <hi>Cruelty</hi> and <hi>Oppreſſion, Pride</hi> and <hi>Iniquity,</hi> for which Gods anger is now kindled, which ſhall burn them up, and leave them neither <hi>root</hi> nor <hi>branch;</hi> the great
+<hi>Globe</hi> of the World they have ſo long hugg'd faſt under their long robes, ſhall tumble from them as down a mighty mountain, without recovery; <hi>and the arm of fleſh</hi> (they have ſo long fled unto, and truſted in) <hi>ſhall wither before their eyes;</hi> and <hi>the complaint of the Widows they</hi> 
+               <note place="margin">J<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r. 17. 5. Ma. 13. 14.</note> 
+               <hi>have devoured,</hi> and of the <hi>Strangers</hi> which they have <hi>oppreſſed, evil intreated</hi> and <hi>perſecuted,</hi> and of <hi>the Fatherleſs</hi> which they have <hi>deſtroyed</hi> by their covetous practices, ſhall be written be<g ref="char:EOLhyphen"/>fore them, as in <hi>Tables</hi> of <hi>braſs,</hi> and they ſhall have time to read them, their creeping about upon their bellies, and twiſting every way like <hi>Serpents,</hi> to uphold themſelves and their wives and children in <hi>pride, fulneſs of bread,</hi> and
+<hi>abundance</hi> 
+               <note place="margin">Ezek. 15. 49.</note> of <hi>idleneſs,</hi> ſhall be a Proverb in generations to come: And as thoſe things which I was moved to write concerning their
+<pb n="5" facs="tcp:183698:3"/> brethren the <hi>Presbyters,</hi> a little before their overthrow came upon them, which eclipſed all their glory, ſo ſhall theſe things overtake <hi>this generation of Vipers,</hi> whoſe glory ſhall go out as the ſnuff of a candle, for they have been as <hi>evening Wolves,</hi> ravening the prey, and deſtroying many ſouls to get diſhoneſt gain; the blood of both
+<hi>Prince</hi> and <hi>People</hi> is upon their heads, crying now aloud for vengeance; and the
+<hi>Executioner</hi> is even at the door, and they ſhall not proceed much further, till their folly be made manifeſt to all men.</p>
+            <p>Oh <hi>England, England!</hi> how art thou like an <hi>ungirded Veſſel,</hi>
+               <note place="margin">Rom. 1. 8.</note> how often hath the Lord invited thee to Repentance, warning thee of his fierce Wrath, which is to be revealed from Heaven againſt all ungodlineſs, but inſtead of hearkning and returning, thou haſt <hi>abuſed, ſtocked, ſtoned, buffeted, perſecuted in thy Syna<g ref="char:EOLhyphen"/>gogues, ſhamefully intreated, impriſoned to death,</hi> yea and
+<hi>baniſhed</hi> them whom the Lord raiſed up in tender love to warn thee, and after their reproof, thou has invented how to be more de<g ref="char:EOLhyphen"/>ſperately wicked, ſurpaſſing the ſins of
+<hi>Sodom</hi> and <hi>Gomorrah,</hi> nay <note place="margin">Matt. 11. 23.</note> if the mighty works which hath been done in thee, had been done in them, they would long e're now have repented in duſt and aſhes, but thou has hardned thy heart and ſtifned thy neck, and ſet at naught all his reproofs, and deſpiſed all his Coun<g ref="char:EOLhyphen"/>ſels, therefore thou ſhalt ſeek him early and ſhall not find him, and in the morning ſhall ſay <hi>would God it were evening,</hi> and in
+<note place="margin">Deut. 28. 67.</note> the evening <hi>would God it were morning,</hi> for the anguiſh which ſhall come upon thee, all theſe things in the Lords appointed ſeaſon ſhall overtake thee, and much more, unleſs thou return unto him who hath ſmote thee.</p>
+            <p>And now in the day of thy <hi>Viſitation,</hi> thou has proclamed a <hi>Faſt,</hi> and peradventure will hang down thy head (like a Bul<g ref="char:EOLhyphen"/>ruſh) for a day, wilt thou call this a Faſt and an acceptable day to the Lord. <hi>Is not this the Faſt which the Lord hath choſen to looſe the bands of Wickedneſs, and to undo the heavy burthens, and to let the Oppreſſed go free,</hi> and that yee <hi>break every yoake</hi> that ye have moſt <hi>unjuſtly laid,</hi> and <hi>ſtill retaines upon the necks of the In<g ref="char:EOLhyphen"/>nocent,</hi> who layes in every <hi>County oppreſſed,</hi> and <hi>perſecuted</hi> for the exerciſe of a good Conſcience towards God, and all Men: are you willing to ſet ſuch free to ſerve the Lord in <hi>England?</hi> and will you break the bond of iniquity, and undo every yoak,
+<pb n="6" facs="tcp:183698:4"/> this is the Faſt the Lord requires of you, which if you be not willing to keep; all your hanging down of your heads, prayers, and teares will be but as <hi>Cain's Sacrifice,</hi> who perſecuted his Brother (till he had ſlain him) about Religion, unto whoſe offering God had no reſpect, and the Cryes of their <hi>Oppreſſi<g ref="char:EOLhyphen"/>ons</hi> will more prevaile with the Lord againſt you, then all your formal Prayers will for you, for I muſt tell you, <hi>God heareth not ſinners, but if any Man will doe his will, him he heareth,</hi> 
+               <note place="margin">Joh. 9. 31.</note> [yea]
+<hi>when you ſpread forth your hands, he will hide his eyes from you, and when you make many prayers, he will not hear, for your hands are full of cruelty, blood, and iniquity; Waſh yee, make yee clean, put away the evil of your doings from before him, ceaſe to do</hi>
+               <note place="margin">Iſa. 1. 15, 16, 17, 18, 19, 20.</note> 
+               <hi>evil, learn to do well, ſeek judgment, relieve the oppreſſed, judge the Fatherleſs, plead for the Widdow; now come let us reaſon together</hi> (ſaith the Lord) <hi>though your ſins be as ſcarlet, they ſhall be white as ſnow, though they be red like Crimſon, they ſhall be as woole; if yee be willing and obedient yee ſhall eat the good of the Land,</hi> but, <hi>if yee refuſe and goe on in rebellion,</hi> the aforeſaid <hi>Judgements</hi> ſhall ſurprize you as an <hi>armed Man,</hi> for the mouth of the Lord hath ſpoken it, and you ſhall know that the Lord ruleth in the Kingdomes of Men, and giveth them to whom<g ref="char:EOLhyphen"/>ſoever he will.</p>
+            <p>Therefore if there be any yet amongſt you whoſe hearts is not wholly hardned, <hi>haſt, haſt</hi> to meet the Lord by Repen<g ref="char:EOLhyphen"/>tance, and remember what the <hi>King</hi> of
+<hi>Nineveb</hi> did after <hi>Jo<g ref="char:EOLhyphen"/>nas</hi> had propheſied the Deſtruction of that great City for its <note place="margin">Jona 3. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.</note> wickedneſs, who ſaid
+<hi>Let Man and Beaſt be covered with Sack<g ref="char:EOLhyphen"/>cloth, and Cry mightily unto God,</hi> [yea] <hi>Let them turn every one from his evil way, and from the violence that is in their hands; who can tell if God will turn and repent, and turn away from his fierce anger that we periſh not,</hi> And God ſaw their works that they turned every Man from his evil way, and God repented him of the evil that he had ſaid he would do unto them, and he did it not, now this is the Faſt which the Lord expects at your hands, <hi>To turn every one from his evil way, and from the violence which is in your hands againſt his heritage,</hi> peradventure God may turn from you that great
+<hi>Judgement</hi> which he hath viſited you withall, Oh that I might be Inſtrumental in help<g ref="char:EOLhyphen"/>ing the worſt of mine enemies out of the ſnare of the Devil,
+<pb n="7" facs="tcp:183698:4"/> much more my Native Country-Men whoſe hearts are breath<g ref="char:EOLhyphen"/>ing after the Lord, but whether they will hear or forbear, I have anſwered the word of the Lord who commanded me to write, and furniſhed me with matter faſter then my Pen could write, that his Judgments and the Cauſe thereof and the Re<g ref="char:EOLhyphen"/>medy againſt the Remainder thereof might be fully declared and publiſhed in the eares of thee oh <hi>England,</hi> which in faith<g ref="char:EOLhyphen"/>fulneſs I have done, according as the word of the Lord aroſe in me without flattering. So thus far am I clear of the blood of all Men, whether I
+<hi>live</hi> or <hi>dye,</hi> remain in <hi>Bonds</hi> or be at <hi>Li<g ref="char:EOLhyphen"/>berty,</hi> whether I be
+<hi>baniſhed for the Teſtimony of Jeſus and Word of God,</hi> or remain in <hi>Priſon</hi> here as I have done this ſeveral <hi>yeares,</hi> with ſeveral more of my Brethren and fellow-ſufferers; in all which I am no way carefull, but can freely ſay, <hi>Oh Lord thy will be done in the Earth, &amp;c.</hi> Therefore I reſt in that peace which the World cannot rob me of, and remain,</p>
+            <closer>
+               <signed>
+                  <hi>England's</hi> real Friend, called <hi>Ambroſe Rigge.</hi>
+               </signed>
+               <dateline>
+                  <hi>From the Priſon in Hor<g ref="char:EOLhyphen"/>ſham in Suſſex</hi>
+                  <date>
+                     <hi>this 12th day of the 6th Moneth called</hi> Auguſt, 1665.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:183698:5" rendition="simple:additions"/>
+            <pb facs="tcp:183698:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
